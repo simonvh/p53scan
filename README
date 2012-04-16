@@ -1,0 +1,32 @@
+### p53scan README ### 
+
+p53scan (http://www.ncmls.nl/molbio/p53/) is an algorithm to locate
+p53 binding sites in DNA sequences. It is described by Smeenk et al.
+(manuscript in preparation)
+
+### Short installation instructions ###
+
+To build and install p53scan on Linux:
+ python setup.py build
+ python setup.py install
+
+To install p53scan on Windows:
+ run p53scan-1.0.win32-py2.5.exe 
+
+For additional configuration see the documentation for Python
+Distutils.
+
+### System Requirements ###
+
+p53scan has been tested on Linux (Gentoo, amd64) and Windows XP. Other 
+operating systems should probably also work.
+
+### Software Requirements ###
+
+o "Python" http://www.python.org/
+
+For Windows, version 2.5 is required when using the installer.
+
+### Bugs ###
+
+Please send bugs and/or comments to s.vanheeringen@ncmls.ru.nl

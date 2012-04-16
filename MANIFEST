@@ -1,0 +1,15 @@
+LICENSE.txt
+README.txt
+setup.py
+windows_build.txt
+PftScan/Fasta.py
+PftScan/__init__.py
+PftScan/coremodule.c
+PftScan/utils.py
+scripts/p53scan.py
+scripts/p53scan_gui.py
+scripts/p63scan.py
+scripts/p63scan_gui.py
+scripts/pwmscan.py
+scripts/scantriplet.py
+scripts/windows_postinstall.py
